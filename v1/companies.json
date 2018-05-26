@@ -1,0 +1,27 @@
+{
+  "companies": [
+    {
+      "description": "US Army",
+      "name": "army",
+      "links": [ {
+        "rel": "self",
+        "href": "army.json"
+      } ],
+    }, {
+      "description": "Booz Allen Hamilton",
+      "name": "boozallen",
+      "links": [ {
+        "rel": "self",
+        "href": "booz.json"
+      } ],
+    }, {
+      "description": "Public Relay",
+      "name": "publicrelay",
+      "links": [ {
+        "rel": "self",
+        "href": "publicrelay.json"
+      } ],
+    }
+
+  ]
+}
