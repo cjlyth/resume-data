@@ -1,9 +1,4 @@
 {
-  "company": "Booz Allen Hamilton",
-  "dates": [
-    "2003-12-29",
-    "2014-09-01"
-  ],
   "projects": [
     {
       "longName": "ThreatBase Portal",

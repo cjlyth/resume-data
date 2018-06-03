@@ -1,9 +1,4 @@
 {
-  "company": "Public Relay",
-  "dates": [
-    "2014-09-01",
-    "2015-09-01"
-  ],
   "projects": [
     {
       "longName": "General (Applies to projects in time period)",

@@ -1,31 +1,40 @@
 {
   "companies": [
     {
-      "description": "US Army",
-      "name": "army",
+      "description": "U.S. Army",
+      "name": "us-army",
+      "dates": ["1997-09-29","2003-12-29"],
       "links": [ {
         "rel": "self",
-        "href": "army.json"
+        "href": "us-army.json"
       }, {
         "rel": "logo",
         "href": "assets/us-army.png"
       } ]
     }, {
       "description": "Booz Allen Hamilton",
-      "name": "boozallen",
+      "name": "booz-allen",
+      "dates": [
+        "2003-12-29",
+        "2014-09-01"
+      ],
       "links": [ {
         "rel": "self",
-        "href": "booz.json"
+        "href": "booz-allen.json"
       }, {
         "rel": "logo",
         "href": "assets/booz-allen.png"
       } ]
     }, {
       "description": "Public Relay",
-      "name": "publicrelay",
+      "name": "public-relay",
+      "dates": [
+        "2014-09-01",
+        "2015-09-01"
+      ],
       "links": [ {
         "rel": "self",
-        "href": "publicrelay.json"
+        "href": "public-relay.json"
       }, {
         "rel": "logo",
         "href": "assets/public-relay.png"
@@ -33,6 +42,10 @@
     }, {
       "description": "AutoZone Inc.",
       "name": "autozone",
+      "dates": [
+        "2015-09-01",
+        "Present"
+      ],
       "links": [ {
         "rel": "self",
         "href": "autozone.json"
