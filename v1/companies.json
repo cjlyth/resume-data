@@ -3,72 +3,112 @@
     {
       "description": "U.S. Army",
       "name": "us-army",
-      "dates": ["1997-09-29","2003-12-29"],
-      "links": [ {
-        "rel": "self",
-        "href": "us-army.json"
-      }, {
-        "rel": "logo",
-        "href": "assets/us-army.png"
-      }, {
-        "rel": "website",
-        "href": "https://www.goarmy.com/"
-      }, {
-        "rel": "favicon",
-        "href": "https://www.goarmy.com/static/images/favicon.ico"
-      } ]
-    }, {
+      "dates": [
+        "1997-09-29",
+        "2003-12-29"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "href": "us-army.json"
+        },
+        {
+          "rel": "logo",
+          "href": "assets/us-army.png"
+        },
+        {
+          "rel": "website",
+          "href": "https://www.goarmy.com/"
+        },
+        {
+          "rel": "favicon",
+          "href": "https://www.goarmy.com/static/images/favicon.ico"
+        }
+      ]
+    },
+    {
       "description": "Booz Allen Hamilton",
       "name": "booz-allen",
-      "dates": ["2003-12-29", "2014-09-01"],
-      "links": [ {
-        "rel": "self",
-        "href": "booz-allen.json"
-      }, {
-        "rel": "logo",
-        "href": "assets/booz-allen.png"
-      }, {
-        "rel": "website",
-        "href": "https://www.boozallen.com/"
-      }, {
-        "rel": "favicon",
-        "href": "https://www.boozallen.com/etc/designs/boozallen/favicon.ico"
-      }]
-    }, {
+      "dates": [
+        "2003-12-29",
+        "2014-09-01"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "href": "booz-allen.json"
+        },
+        {
+          "rel": "logo",
+          "href": "assets/booz-allen.png"
+        },
+        {
+          "rel": "website",
+          "href": "https://www.boozallen.com/"
+        },
+        {
+          "rel": "favicon",
+          "href": "https://www.boozallen.com/etc/designs/boozallen/favicon.ico"
+        }
+      ]
+    },
+    {
       "description": "Public Relay",
       "name": "public-relay",
-      "dates": ["2014-09-01", "2015-09-01"],
-      "links": [ {
-        "rel": "self",
-        "href": "public-relay.json"
-      }, {
-        "rel": "logo",
-        "href": "assets/public-relay.png"
-      }, {
-        "rel": "website",
-        "href": "https://www.publicrelay.com/"
-      }, {
-        "rel": "favicon",
-        "href": "https://www.publicrelay.com/wp-content/themes/publicrelay/favicons/favicon.ico"
-      } ]
-    }, {
+      "dates": [
+        "2014-09-01",
+        "2015-09-01"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "href": "public-relay.json"
+        },
+        {
+          "rel": "logo",
+          "href": "assets/public-relay.png"
+        },
+        {
+          "rel": "website",
+          "href": "https://www.publicrelay.com/"
+        },
+        {
+          "rel": "favicon",
+          "href": "https://www.publicrelay.com/wp-content/themes/publicrelay/favicons/favicon.ico"
+        }
+      ]
+    },
+    {
       "description": "AutoZone Inc.",
       "name": "autozone",
-      "dates": ["2015-09-01", "Present"],
-      "links": [ {
-        "rel": "self",
-        "href": "autozone.json"
-      }, {
-        "rel": "logo",
-        "href": "assets/autozone.png"
-      }, {
-        "rel": "website",
-        "href": "https://www.autozone.com/"
-      }, {
-        "rel": "favicon",
-        "href": "https://www.autozone.com/favicon.ico"
-      } ]
+      "dates": [
+        "2015-09-01",
+        "Present"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "href": "autozone.json"
+        },
+        {
+          "rel": "logo",
+          "href": "assets/autozone.png"
+        },
+        {
+          "rel": "website",
+          "href": "https://www.autozone.com/"
+        },
+        {
+          "rel": "favicon",
+          "href": "https://www.autozone.com/favicon.ico"
+        }
+      ]
     }
-
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "companies.json"
+    }
   ]
 }
