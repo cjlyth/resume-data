@@ -5,21 +5,32 @@
       "name": "army",
       "links": [ {
         "rel": "self",
-        "href": "army.json"
+        "href": "army.json",
+        "logo": "assets/us-army.png"
       } ]
     }, {
       "description": "Booz Allen Hamilton",
       "name": "boozallen",
       "links": [ {
         "rel": "self",
-        "href": "booz.json"
+        "href": "booz.json",
+        "logo": "assets/booz-allen.png"
       } ]
     }, {
       "description": "Public Relay",
       "name": "publicrelay",
       "links": [ {
         "rel": "self",
-        "href": "publicrelay.json"
+        "href": "publicrelay.json",
+        "logo": "assets/public-relay.png"
+      } ]
+    }, {
+      "description": "AutoZone Inc.",
+      "name": "autozone",
+      "links": [ {
+        "rel": "self",
+        "href": "autozone.json",
+        "logo": "assets/autozone.png"
       } ]
     }
 
