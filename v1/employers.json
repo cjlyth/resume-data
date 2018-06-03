@@ -1,5 +1,5 @@
 {
-  "companies": [
+  "employers": [
     {
       "description": "U.S. Army",
       "name": "us-army",
@@ -10,7 +10,7 @@
       "links": [
         {
           "rel": "self",
-          "href": "us-army.json"
+          "href": "employers/us-army.json"
         },
         {
           "rel": "logo",
@@ -36,7 +36,7 @@
       "links": [
         {
           "rel": "self",
-          "href": "booz-allen.json"
+          "href": "employers/booz-allen.json"
         },
         {
           "rel": "logo",
@@ -62,7 +62,7 @@
       "links": [
         {
           "rel": "self",
-          "href": "public-relay.json"
+          "href": "employers/public-relay.json"
         },
         {
           "rel": "logo",
@@ -88,7 +88,7 @@
       "links": [
         {
           "rel": "self",
-          "href": "autozone.json"
+          "href": "employers/autozone.json"
         },
         {
           "rel": "logo",
@@ -108,7 +108,7 @@
   "links": [
     {
       "rel": "self",
-      "href": "companies.json"
+      "href": "employers.json"
     }
   ]
 }

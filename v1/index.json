@@ -1,0 +1,14 @@
+{
+  "links": [
+    {
+      "rel": "self",
+      "href": "index.json"
+    }, {
+      "rel": "summary",
+      "href": "summary.json"
+    }, {
+      "rel": "employers",
+      "href": "employers.json"
+    }
+  ]
+}

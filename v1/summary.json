@@ -1,0 +1,15 @@
+{
+  "name": "Christopher J. Lyth",
+  "nameSmall": "Chris Lyth",
+  "title": "Chief Systems Engineer",
+  "titleSmall": "Chief Engineer",
+  "links": [
+    {
+      "rel": "self",
+      "href": "summary.json"
+    }, {
+      "rel": "linkedin",
+      "href": "https://www.linkedin.com/in/cjlyth/"
+    }
+  ]
+}
