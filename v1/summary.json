@@ -8,6 +8,9 @@
       "rel": "self",
       "href": "summary.json"
     }, {
+      "rel": "avatar",
+      "href": "assets/profile.png"
+    }, {
       "rel": "linkedin",
       "href": "https://www.linkedin.com/in/cjlyth/"
     }
