@@ -1,54 +1,28 @@
 {
   "employers": [
     {
-      "description": "U.S. Army",
-      "name": "us-army",
+      "description": "AutoZone Inc.",
+      "name": "autozone",
       "dates": [
-        "1997-09-29",
-        "2003-12-29"
+        "2015-09-01",
+        "Present"
       ],
       "links": [
         {
           "rel": "self",
-          "href": "employers/us-army.json"
+          "href": "employers/autozone.json"
         },
         {
           "rel": "logo",
-          "href": "assets/us-army.png"
+          "href": "assets/autozone.png"
         },
         {
           "rel": "website",
-          "href": "https://www.goarmy.com/"
+          "href": "https://www.autozone.com/"
         },
         {
           "rel": "favicon",
-          "href": "https://www.goarmy.com/static/images/favicon.ico"
-        }
-      ]
-    },
-    {
-      "description": "Booz Allen Hamilton",
-      "name": "booz-allen",
-      "dates": [
-        "2003-12-29",
-        "2014-09-01"
-      ],
-      "links": [
-        {
-          "rel": "self",
-          "href": "employers/booz-allen.json"
-        },
-        {
-          "rel": "logo",
-          "href": "assets/booz-allen.png"
-        },
-        {
-          "rel": "website",
-          "href": "https://www.boozallen.com/"
-        },
-        {
-          "rel": "favicon",
-          "href": "https://www.boozallen.com/etc/designs/boozallen/favicon.ico"
+          "href": "https://www.autozone.com/favicon.ico"
         }
       ]
     },
@@ -79,28 +53,54 @@
       ]
     },
     {
-      "description": "AutoZone Inc.",
-      "name": "autozone",
+      "description": "Booz Allen Hamilton",
+      "name": "booz-allen",
       "dates": [
-        "2015-09-01",
-        "Present"
+        "2003-12-29",
+        "2014-09-01"
       ],
       "links": [
         {
           "rel": "self",
-          "href": "employers/autozone.json"
+          "href": "employers/booz-allen.json"
         },
         {
           "rel": "logo",
-          "href": "assets/autozone.png"
+          "href": "assets/booz-allen.png"
         },
         {
           "rel": "website",
-          "href": "https://www.autozone.com/"
+          "href": "https://www.boozallen.com/"
         },
         {
           "rel": "favicon",
-          "href": "https://www.autozone.com/favicon.ico"
+          "href": "https://www.boozallen.com/etc/designs/boozallen/favicon.ico"
+        }
+      ]
+    },
+    {
+      "description": "U.S. Army",
+      "name": "us-army",
+      "dates": [
+        "1997-09-29",
+        "2003-12-29"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "href": "employers/us-army.json"
+        },
+        {
+          "rel": "logo",
+          "href": "assets/us-army.png"
+        },
+        {
+          "rel": "website",
+          "href": "https://www.goarmy.com/"
+        },
+        {
+          "rel": "favicon",
+          "href": "https://www.goarmy.com/static/images/favicon.ico"
         }
       ]
     }
