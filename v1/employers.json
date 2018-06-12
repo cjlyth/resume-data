@@ -23,6 +23,10 @@
         {
           "rel": "favicon",
           "href": "https://www.autozone.com/favicon.ico"
+        },
+        {
+          "rel": "linkedin",
+          "href": "https://www.linkedin.com/company/autozone/"
         }
       ]
     },
@@ -49,6 +53,10 @@
         {
           "rel": "favicon",
           "href": "https://www.publicrelay.com/wp-content/themes/publicrelay/favicons/favicon.ico"
+        },
+        {
+          "rel": "linkedin",
+          "href": "https://www.linkedin.com/company/publicrelay/"
         }
       ]
     },
@@ -75,6 +83,10 @@
         {
           "rel": "favicon",
           "href": "https://www.boozallen.com/etc/designs/boozallen/favicon.ico"
+        },
+        {
+          "rel": "linkedin",
+          "href": "https://www.linkedin.com/company/booz-allen-hamilton/"
         }
       ]
     },
@@ -101,6 +113,10 @@
         {
           "rel": "favicon",
           "href": "https://www.goarmy.com/static/images/favicon.ico"
+        },
+        {
+          "rel": "linkedin",
+          "href": "https://www.linkedin.com/company/us-army/"
         }
       ]
     }
