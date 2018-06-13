@@ -6,6 +6,6 @@ pages:
   - echo 'Deploying application...'
   artifacts:
     paths:
-    - .
+    - $CI_PROJECT_DIR
   only:
   - master
